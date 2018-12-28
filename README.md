@@ -5,7 +5,8 @@ Collection of javascript spikes.
 
 ## Prerequisites
 * Modern browser supporting javascript (eg Google Chrome, Firefox, etc)
-* Tests are written in Mocha with Chai assertion framework
+* Working API key in index.html replacing 'YOUR_API_KEY'
+* Tests written in Mocha with Chai assertion framework
 
 Run / test the app:
 ```
@@ -26,3 +27,7 @@ https://manifesto.co.uk/google-maps-api-pricing-changes/
 Free alternatives:
 * OpenStreetMap: www.openstreetmap.org
 * Australia Post (or Aus Govt data)?
+
+### To do
+* Add tests for custom functions (eg setStreetName... & setUnitNumber)
+* spike free address auto complete
