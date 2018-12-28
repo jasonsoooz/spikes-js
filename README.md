@@ -29,5 +29,6 @@ Free alternatives:
 * Australia Post (or Aus Govt data)?
 
 ### To do
+* Change street type to drop down
 * Add tests for custom functions (eg setStreetName... & setUnitNumber)
 * spike free address auto complete
