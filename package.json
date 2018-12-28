@@ -1,0 +1,19 @@
+{
+  "name": "spikes-js",
+  "version": "1.0.0",
+  "description": "Collection of javascript spikes. 1. Address auto complete using Google Places API",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonsoooz/spikes-js.git"
+  },
+  "author": "Jason Soo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonsoooz/spikes-js/issues"
+  },
+  "homepage": "https://github.com/jasonsoooz/spikes-js#readme"
+}
