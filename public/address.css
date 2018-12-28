@@ -13,8 +13,7 @@ html, body {
 /*****************************************************************************/
 
 #locationField, #controls {
-    position: relative;
-    width: 480px;
+    width: 100%;
 }
 #autocomplete {
     position: absolute;
@@ -23,7 +22,7 @@ html, body {
     width: 99%;
 }
 .label {
-    text-align: right;
+    text-align: left;
     font-weight: bold;
     width: 100px;
     color: #303030;
@@ -31,14 +30,14 @@ html, body {
 #address {
     border: 1px solid #000090;
     background-color: #f0f0ff;
-    width: 480px;
+    width: 100%;
     padding-right: 2px;
 }
 #address td {
     font-size: 10pt;
 }
 .field {
-    width: 99%;
+    width: 96%;
 }
 .slimField {
     width: 80px;
